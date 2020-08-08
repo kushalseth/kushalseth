@@ -1,6 +1,4 @@
 
-![Happy Coding](https://github.com/kushalseth/DataStructure/blob/master/blob/elon2.jpg)
-
 # Kushal Seth :india: :pray: :coffee:
 
 #### Love to learn about technologies, cultures and StartUps  
@@ -17,6 +15,7 @@ The project name is #mainbhiaatmanirbhar.  :grinning:
 - You can get the project reviewed and always understand at what funnel you are at and what needs to be done.
 - **Meaning in English:** Build something on your own
 
+![Happy Coding](https://github.com/kushalseth/DataStructure/blob/master/blob/elon2.jpg)
 
 ## Professtional Summary 
 
@@ -50,7 +49,7 @@ I am a guy whose search history is filled with the videos of entrepreneurs / sta
 **YouTube:** www.youtube.com/channel/UC609TXHhc4N7IBkNB3GG_Ew
 
 ## Resources to build good Readme.md
-- If you liked the template, you can always fork https://github.com/kushalseth/kushalseth and use the template I have used.
+- If you liked the template, you can use https://github.com/kushalseth/kushalseth.
 - Few links I usually use for md file
 	- General Formatting [https://shields.io/](https://shields.io/)
 	- Emojis in ReacdMe: [EmoJI](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
