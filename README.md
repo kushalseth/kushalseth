@@ -23,7 +23,7 @@ I love to code. Professionally, I am a 7+ years of experienced full stack develo
 
 ## Support Me 
 
-I am sure keeping a contact is the biggest support. Please connect on any platform which ever is your favorite 
+Keeping in touch is the biggest support. Please connect on any platform which ever is your favorite 
 
 ## Hire Me 
 
@@ -49,7 +49,7 @@ I am a guy whose search history is filled with the videos of entrepreneurs / sta
 **YouTube:** www.youtube.com/channel/UC609TXHhc4N7IBkNB3GG_Ew
 
 ## Resources to build good Readme.md
-- If you liked the template, you can use https://github.com/kushalseth/kushalseth.
+- If you liked the template, you can fork https://github.com/kushalseth/kushalseth
 - Few links I usually use for md file
 	- General Formatting [https://shields.io/](https://shields.io/)
 	- Emojis in ReacdMe: [EmoJI](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
