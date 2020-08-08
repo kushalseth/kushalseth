@@ -42,11 +42,11 @@ Currently I am focusing on my Data Structure and Algorithms as I also want to jo
 I am a guy whose search history is filled with the videos of entrepreneurs / startups / motivational talks / standup comedy / blockchain / Quantum / Algorithms / architecture / hackathons / Microsoft. I Love life and enjoy to the fullest.
 
 ## Connect
-**Twitter:** @KushalSeth14
-**Linkedin:** https://www.linkedin.com/in/sethkushal
-**Git:** https://github.com/kushalseth
-**StackOverflow:** https://stackoverflow.com/users/4393351/kushalseth
-**YouTube:** www.youtube.com/channel/UC609TXHhc4N7IBkNB3GG_Ew
+- **Twitter:** @KushalSeth14
+- **Linkedin:** https://www.linkedin.com/in/sethkushal
+- **Git:** https://github.com/kushalseth
+- **StackOverflow:** https://stackoverflow.com/users/4393351/kushalseth
+- **YouTube:** www.youtube.com/channel/UC609TXHhc4N7IBkNB3GG_Ew
 
 ## Resources to build good Readme.md
 - If you liked the template, you can fork https://github.com/kushalseth/kushalseth
