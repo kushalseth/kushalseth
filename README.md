@@ -54,4 +54,8 @@ I am a guy whose search history is filled with the videos of entrepreneurs / sta
 	- General Formatting [https://shields.io/](https://shields.io/)
 	- Emojis in ReacdMe: [EmoJI](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 	- Editor Editor: [https://stackedit.io/app#](https://stackedit.io/app#) 
-	- Adding colors to the MD file text: https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-github-flavored-markdown/41043795
+	- Adding colors to the MD file text:
+		- https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-github-flavored-markdown/41043795
+		- https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+	- Basic MD formatting: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+	- 
