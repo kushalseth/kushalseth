@@ -3,7 +3,7 @@
 
 #### Love to learn about technologies, cultures and StartUps  
 
-I am Kushal Seth. I am starting a new project. The project is a platform that will be a building block for the new projects. 
+I am Kushal Seth. I am starting a new project. The platform that helps projects to go LIVE and will be a building block for the new projects. 
 
 The project name is #mainbhiaatmanirbhar.  :grinning: 
 
