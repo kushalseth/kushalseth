@@ -6,7 +6,7 @@
 I am Kushal Seth. I am currently working on 2 projects.
 The project name are: 
 
-## PROJECT: Intelligentbuilder 
+## Intelligent Builder 
 
 #### A product for enterpreneurs, softwaredevelopers, influencers to manage, track and build their brand
 
@@ -15,7 +15,7 @@ The project name are:
 - You can get the project reviewed and always understand at what funnel you are at and what needs to be done.
 - **Repository:** Private repository. Still in development
 
-## PROJECT: HacktoberFestInd 
+## hacktoberfestInd  
 
 #### A open source porject for open source community
 
