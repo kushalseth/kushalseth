@@ -13,7 +13,7 @@ The project name are:
 - **One Liner:** A platform that helps projects to go LIVE.
 - **Summary:** So many projects and hackathons comes up with great idea but those ideas vanishes with time. Even if you are a newbie or already have a project, we help you in getting your product and code reviewed and make it live with the strategies. You can select the type of site you want and the intelligent builder will build one for you.
 - You can get the project reviewed and always understand at what funnel you are at and what needs to be done.
-- **Repository:** Private repository. Still in development
+- **Repository:** Private repository. 
 
 ## hacktoberfestInd  
 
