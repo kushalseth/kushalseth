@@ -6,17 +6,21 @@
 I am Kushal Seth. I am currently working on 2 projects.
 The project name are: 
 
-## PROJECT: Intelligentbuilder (A product for enterpreneurs, softwaredevelopers, influencers to manage, track and build their brand)
+## PROJECT: Intelligentbuilder 
+
+#### A product for enterpreneurs, softwaredevelopers, influencers to manage, track and build their brand
 
 - **One Liner:** A platform that helps projects to go LIVE.
 - **Summary:** So many projects and hackathons comes up with great idea but those ideas vanishes with time. Even if you are a newbie or already have a project, we help you in getting your product and code reviewed and make it live with the strategies. You can select the type of site you want and the intelligent builder will build one for you.
 - You can get the project reviewed and always understand at what funnel you are at and what needs to be done.
 - **Repository:** Private repository. Still in development
 
-## PROJECT: HacktoberFestInd (A open source porject for open source community)
+## PROJECT: HacktoberFestInd 
+
+#### A open source porject for open source community
 
 - **One Liner:** A project to connect and promote open source
-- **Summary:** Connect the newbies with open source and connect with senior members of software development. 
+- **Summary:** Connect developers with already available resources and senior develoepers 
 - **Repository:** https://github.com/kushalseth/hacktoberfestind.com
 
 ## Professtional Summary 
