@@ -3,8 +3,9 @@
 
 #### Love to learn about technologies, cultures and StartUps  
 
-I am Kushal Seth. I am currently working on 2 projects.
-The project name are: 
+I am Kushal Seth. Senior Software Developer expertise in software architecture, reviewing code and developing improvements to base code. Hardworking and resourceful professional overcomes challenges and works effectively in fast-paced, high-volume development environments. Skilled in directing development with creative and performance-oriented approach.
+
+I am currently working on 2 open source projects.
 
 ## Intelligent Builder 
 
@@ -25,11 +26,8 @@ The project name are:
 
 ## Professtional Summary 
 
-I love to code. Professionally, I am a 7+ years of experienced full stack developer having experience in developing enterprise and consumer focused applications using multiple design patterns both on front-end and back-end using cloud.
+Professionally, I am .Net, MERN, JAMStack and blockchain full stack Developer having around 8 years of experience in developing and managing enterprise and consumer focused applications using multiple design patterns both on frontend and backend using cloud.
 
-## Support Me 
-
-Keeping in touch is the biggest support. Please connect on any platform which ever is your favorite 
 
 ## Hire Me 
 
