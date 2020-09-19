@@ -7,6 +7,8 @@ I am Kushal Seth. Senior Software Developer expertise in software architecture, 
 
 I am currently working on 2 open source projects.
 
+Link to Resume: https://gist.github.com/kushalseth/06543c892964380471c6b68a0634b3b6
+
 ## Intelligent Builder 
 
 #### A product for enterpreneurs, softwaredevelopers, influencers to manage, track and build their brand
