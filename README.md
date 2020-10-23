@@ -1,18 +1,18 @@
 
 # Kushal Seth :india: :pray: :coffee:
 
-#### Love to learn about technologies, cultures and StartUps  
+I am a Senior Software Developer and I am here to create some impactful content. Transforming myself towards  [#abc_vi] [ AI | ML | Blockchain | Cloud & Distributed Systems  | VR | IOT | Quantum ] 
 
-Senior Software Developer expertise in software architecture, reviewing code and developing applications from scratch. Hardworking and resourceful professional overcomes challenges and works effectively in fast-paced, high-volume development environments. 
+You can connect with me: 
 
-Skilled in directing development with creative and performance-oriented approach.
+- My mission is to generate some content which actually helps you to learn the concepts. and grow as an software architect.
+- I am a content creator, I work on my content and then publish it with deep understanding of the topic.
+- If you are the one, who love to start exploring new technologies but thinks how to start, then you can subscribe here, as I explore almost all the technologies and code on them from scratch. and share my experiences of initial start.
+- I summarize the famous: hackathons, upcoming technical events, Olympiads, etc 
+- Passion: entrepreneurship / startups / software architecture / hackathons.
+
 
 #### Checkout some of my work on Blockchain in my pinged repositories and #100DaysOfBlockchain.
-
-## Professtional Summary 
-
-Professionally, I am .Net, MERN, JAMStack and blockchain full stack Developer having around 8 years of experience in developing and managing enterprise and consumer focused applications using multiple design patterns both on frontend and backend using cloud.
-
 
 ## Hire Me 
 
