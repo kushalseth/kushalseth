@@ -7,7 +7,7 @@ Senior Software Developer expertise in software architecture, reviewing code and
 
 Skilled in directing development with creative and performance-oriented approach.
 
-#### Checkout some of my work on Blockchain in my pinged repositories and #100DaysOfCode.
+#### Checkout some of my work on Blockchain in my pinged repositories and #100DaysOfBlockchain.
 
 ## Professtional Summary 
 
