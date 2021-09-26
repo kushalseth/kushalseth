@@ -1,5 +1,5 @@
 
-# Kushal Seth :india: :pray: :coffee:
+# Kushal Seth :india: :pray: :coffee: 🇮🇳
 
 I am a Senior Software Developer and I am here to create some impactful content. Transforming myself towards  [#abc_vi] [ AI | ML | Blockchain | Cloud & Distributed Systems  | VR | IOT | Quantum ] 
 
