@@ -1,20 +1,23 @@
 
-# Kushal Seth :india: :pray: :coffee: 🇮🇳
+# Kushal Seth :india: :pray: :coffee:
 
-I am a Senior Software Developer and I am here to create some impactful content. Transforming myself towards  [#abc_vi] [ AI | ML | Blockchain | Cloud & Distributed Systems  | VR | IOT | Quantum ] 
+- I'm Kushal Seth
+- I'm 31 y/o
+- I'm from New Delhi 🇮🇳
+- I love long car drives, love cars and love visiting places.
+- Professionally I am lead full stack developer with 9+ years of experience in Web and mobile architecture
+- I have interest in IOT and Quantum, won blockchain hackatons. 
 
-You can connect with me: 
+Transforming myself towards [#abc_vi] [ AI | ML | Blockchain | Cloud, Quantum & Distributed Systems | VR | IOT ] 
+I am a guy whose search history is filled with content of entrepreneurs / startups / motivational talks / standup comedy / blockchain / Quantum / Algorithms / architecture / hackathons / Google / Microsoft / Cars / Food / History. I Love life and enjoy to the fullest.
 
-- My mission is to generate some content which actually helps you to learn the concepts. and grow as an software architect.
-- I am a content creator, I work on my content and then publish it with deep understanding of the topic.
-- If you are the one, who love to start exploring new technologies but thinks how to start, then you can subscribe here, as I explore almost all the technologies and code on them from scratch. and share my experiences of initial start.
-- I summarize the famous: hackathons, upcoming technical events, Olympiads, etc 
-- Passion: entrepreneurship / startups / software architecture / hackathons.
+Lead Full Stack Developer | @stackoverflow 1000+ reputation | Help others & Architect | Uses #abc_vi as tag | #100DaysOfBlockchain
 
+#### PROFESSTIONAL CAREER
 
-#### Checkout some of my work on Blockchain in my pinged repositories and #100DaysOfBlockchain.
+Professionally, I am working as a .Net Full Stack Technical Lead in BOLD Limited (products: Zety.com, LiveCareer.com, Myperfectresume.com, Resume-now.com and many more) having around 9+ years of experience in developing enterprise and consumer focused applications using multiple design patterns both on frontend and backend.
 
-## Hire Me 
+#### HIRE ME or CONNECT FOR PROJECTS 
 
 You will surely love my energy which I put during work and keeping a healthy relationship with teammates. Get in touch: [kushalseth1408@gmail.com](mailto:kushalseth1408@gmail.com)
 
