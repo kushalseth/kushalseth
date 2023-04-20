@@ -1,32 +1,12 @@
 
-# Kushal Seth :india: :pray: :coffee:
+# Kushal Seth
+Senior Full Stack Developer with a focus on Node.JS & React.JS
 
-- I'm Kushal Seth
-- I'm 31 y/o
-- I'm from New Delhi 🇮🇳
-- I love long car drives, love cars and love visiting places.
-- Professionally I am lead full stack developer with 9+ years of experience in Web and mobile architecture
-- I have interest in IOT and Quantum, won blockchain hackatons. 
+#### TECHNICAL SKILLS
 
-Transforming myself towards [#abc_vi] [ AI | ML | Blockchain | Cloud, Quantum & Distributed Systems | VR | IOT ] 
-I am a guy whose search history is filled with content of entrepreneurs / startups / motivational talks / standup comedy / blockchain / Quantum / Algorithms / architecture / hackathons / Google / Microsoft / Cars / Food / History. I Love life and enjoy to the fullest.
-
-Lead Full Stack Developer | @stackoverflow 1000+ reputation | Help others & Architect | Uses #abc_vi as tag | #100DaysOfBlockchain
-
-#### PROFESSTIONAL CAREER
-
-Professionally, I am working as a .Net Full Stack Technical Lead in BOLD Limited (products: Zety.com, LiveCareer.com, Myperfectresume.com, Resume-now.com and many more) having around 9+ years of experience in developing enterprise and consumer focused applications using multiple design patterns both on frontend and backend.
-
-#### HIRE ME or CONNECT FOR PROJECTS 
-
-You will surely love my energy which I put during work and keeping a healthy relationship with teammates. Get in touch: [kushalseth1408@gmail.com](mailto:kushalseth1408@gmail.com)
-
+JavaScript (10 years of project experience) | Typescript (5) | Node.JS (5) | React.JS (5) | Microservices (5) | Express.JS (5) | Nest.JS (2) | Next.JS (2) | GraphQL (3) | AWS (3) | Azure (3) | CI/CD Pipelines (5) | Docker (3) | Kubernetes (3) | DDD (5) | Chai (2) | Mocha (2) | Prisma (2) | Apollo (2) | WebSocket (3) | Micro-Frontends (2) | Vue.JS (2) | .Net6 (1) | .Net Core (2) | C# (2) | Jest (2) | Cypress (2) | Frontend Performance (7) | OWASP security (2) | MongoDB (3) | SQL Server (7) | Jenkins (3) | Octopus (2) | RabbitMQ (3) | ElasticSearch (3) | Agile/Scrum (10)
 
 ## Connect
-- **Twitter:** @KushalSeth14
 - **Linkedin:** https://www.linkedin.com/in/sethkushal
 - **Git:** https://github.com/kushalseth
 - **StackOverflow:** https://stackoverflow.com/users/4393351/kushalseth
-- **YouTube:** www.youtube.com/channel/UC609TXHhc4N7IBkNB3GG_Ew
-
-## Devlop md files: https://gist.github.com/kushalseth/1b966e9542ba56bb0f4e983e0553987f 
