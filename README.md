@@ -1,6 +1,6 @@
 
 # Kushal Seth
-# Software Architect | Blockchain Expert | Full Stack Development (Web, Mobile & IoT) | Technology Leader in AI, ML, Quantum, IoT & Emerging Tech | Open Source Enthusiast
+## Software Architect | Blockchain Expert | Full Stack Development (Web, Mobile & IoT) | Technology Leader in AI, ML, Quantum, IoT & Emerging Tech | Open Source Enthusiast
 
 Welcome to my profile! I am a dedicated Software Architect with a deep passion for blockchain technology and full stack development across web, mobile, and IoT platforms. My professional journey is driven by a commitment to innovation and excellence in the field of technology.
 
