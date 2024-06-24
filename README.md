@@ -1,10 +1,29 @@
 
 # Kushal Seth
-Senior Full Stack Developer with a focus on Node.JS & React.JS
+# Software Architect | Blockchain Expert | Full Stack Development (Web, Mobile & IoT) | Technology Leader in AI, ML, Quantum, IoT & Emerging Tech | Open Source Enthusiast
 
-#### TECHNICAL SKILLS
+Welcome to my profile! I am a dedicated Software Architect with a deep passion for blockchain technology and full stack development across web, mobile, and IoT platforms. My professional journey is driven by a commitment to innovation and excellence in the field of technology.
 
-JavaScript (10 years of project experience) | Typescript (5) | Node.JS (5) | React.JS (5) | Microservices (5) | Express.JS (5) | Nest.JS (2) | Next.JS (2) | GraphQL (3) | AWS (3) | Azure (3) | CI/CD Pipelines (5) | Docker (3) | Kubernetes (3) | DDD (5) | Chai (2) | Mocha (2) | Prisma (2) | Apollo (2) | WebSocket (3) | Micro-Frontends (2) | Vue.JS (2) | .Net6 (1) | .Net Core (2) | C# (2) | Jest (2) | Cypress (2) | Frontend Performance (7) | OWASP security (2) | MongoDB (3) | SQL Server (7) | Jenkins (3) | Octopus (2) | RabbitMQ (3) | ElasticSearch (3) | Agile/Scrum (10)
+## 🚀 Professional Expertise:
+- **Blockchain Development:** Advanced proficiency in blockchain technology. Skilled in designing and implementing secure, decentralized applications that solve real-world problems.
+- **Full Stack Development:** Extensive experience in developing scalable and robust applications. Proficient in using modern frameworks and languages tailored for both front-end and back-end solutions.
+- **Emerging Technologies:** A forward-thinker in the integration of AI, machine learning, quantum computing, and IoT into functional and transformative business applications.
+
+## 🔍 Leadership & Impact:
+- As a technology leader, I guide teams through complex project landscapes, ensuring best practices and fostering a culture of innovation and continuous learning.
+- My role extends beyond development; I am deeply involved in architectural design decisions, helping shape strategic directions to align with business goals.
+
+## 🌐 Community Contributions:
+- Passionate about open source, I contribute to several projects, enhancing tools and frameworks that empower developers worldwide.
+- Advocate for knowledge sharing, I frequently participate in workshops, seminars, and conferences, pushing the envelope on what technology can achieve.
+
+## 🤝 Let's Connect:
+I am eager to connect with like-minded professionals and enthusiasts who are passionate about leveraging technology to create impactful solutions. If you are interested in collaborating on projects or exchanging ideas on the future of tech, please feel free to reach out.
+
+*Innovating today for a better tomorrow.*
+
+### #abc_vi
+
 
 ## Connect
 - **Linkedin:** https://www.linkedin.com/in/sethkushal
